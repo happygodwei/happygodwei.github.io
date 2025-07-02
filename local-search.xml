@@ -49,50 +49,11 @@
   
   
   <entry>
-    <title>diary</title>
-    <link href="/2025/02/26/diary/"/>
-    <url>/2025/02/26/diary/</url>
-    
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="Oh, these decrypted content cannot be verified, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="25f77d34d8a7fa1a4f8b36b16d06594312dcc14c37431ccb280162661e5e7ec1">56d5ebbf617c8603b31ae6e7e01de83c92cbbbf057eff7b7fa6543991ebcce33</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-blink">      <input class="hbe hbe-input-field hbe-input-field-blink" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-blink" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-blink" data-content="Hey, password is required here.">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>25年上学期竞赛时间</title>
     <link href="/2025/02/17/contest/"/>
     <url>/2025/02/17/contest/</url>
     
     <content type="html"><![CDATA[<p>蓝桥杯 2025.4.12 9:00 - 11:00 天梯赛 2025.4.19 13:30 - 16:30icpc邀请赛 河北省省赛</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>note</title>
-    <link href="/2025/02/08/note/"/>
-    <url>/2025/02/08/note/</url>
-    
-    <content type="html"><![CDATA[<p>O-D pairs</p><p>SCS （successor nodes）</p><p>PDS （predecessor nodes）</p><p>PDF 联合概率密度函数</p><p>CDF 累积分布函数</p><p>RSPP 可靠最短路径问题 reliable shortest path problem</p><p>The paper is based α-reliable path</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>word</title>
-    <link href="/2025/02/08/word/"/>
-    <url>/2025/02/08/word/</url>
-    
-    <content type="html"><![CDATA[<p>normal distributions 正太分布（高斯分布）</p>]]></content>
     
     
     
@@ -118,7 +79,7 @@
     <link href="/2024/12/23/HongKong2024/"/>
     <url>/2024/12/23/HongKong2024/</url>
     
-    <content type="html"><![CDATA[<h1 id="icpc香港站游记">2024ICPC香港站游记</h1><h2id="icpc香港站结束了香港站应该是最后一场xcpc区域赛了以意想不到的银牌退役了写一篇游记纪念一下香港之旅">icpc香港站结束了，香港站应该是最后一场xcpc区域赛了，以意想不到的银牌退役了,写一篇游记纪念一下香港之旅。</h2><h3 id="day0-12.20">Day0 （12.20）</h3><p>这次香港站学校去了两队，我订了从北京大兴到香港的机票，这是我人生中第一次坐飞机。下午1点的飞机，订了一张8点出发9点到大兴机场的高铁。订的太早了换完港币在机场就没事干了。换港币的时候，本来想一人换200港币，结果只有500面额的港币，最后一人换了一张500的。晚上到了香港已经很晚了。直接买了张八达通，之后坐机场快线直奔酒店了，到了后发现400一晚的酒店破败不堪，非常小，只有两张小床，为后面去深圳做了铺垫。中午在大兴吃了米村拌饭，晚上在香港的冰室吃了海鲜炒面，感觉还挺好吃的。酒店门口有卖鸡蛋仔，20HKD两个，不仅好吃而且性价比高。### Day1 （12.21）热身赛。早上去汇丰银行办港卡，前一天晚上在汇丰香港app线上申请成功了，去线下存了100港币到卡里。（队友好像因为名字两个字办卡要审核）办完就去吃了M。领物资环节，主办方送了可爱小熊，去华为拿了个小熊猫和手提袋，JaneStreet领了衣服。热身赛题A比较有意思15个选择，开始以为答案是藏头STARTPARTYTODAY，结果wa了。B是去年杭州站原题，去年我们没做出来，这次我成功A了这个题，我比去年有进步。C是VP过的原题。D也是杭州题，很难不会做。热身赛结束后就到了最隆重的晚宴环节，没想到香港理工准备的晚宴这么顶级。我们桌坐了9个人。一共九个菜。非常好吃，奢华。晚宴的时候JaneStreet又送了扑克牌。（第二天发现好像还送了袋子，有些队伍说在晚宴拿到了，但我们没拿到）吃完晚宴，我们学校两队兵分两路，部分队友去打舞萌了。我去了摩天轮，感觉太值了，18块钱在摩天轮上坐了三圈。晚上回去想吃哈根达斯，找了一家店，因为太晚了都关门了，遗憾休息睡觉。</p><h3 id="day2-12.22">Day2 （12.22）</h3><p>早上吃的麦当劳早餐，60港币，吃完后就开始了激动人心对正式赛。 正式赛（改编自lyt）    这次比赛出乎我的意料，最后拿了银奖，总体真的是十分顺利，愿望实现了！    C题：比赛一开始我先去看题，队友调vscode设置和敲模板，看到有人过题才去读C题。题目慌慌张张没读懂，最后还是lh解释一遍，代码也好实现，写完交上直接过了。    K题：跟着榜做K题，读完有个大概思路，最后2发罚时给过了。赛中开始发了麦当劳，一人一个双吉，之后和志愿者又要了一个汉堡。最后快结束的时候给我们发了一个健身餐（。    F题：以为很简单，最后发现不是很简单，没做出来。    G题&amp;H题：也没做出来，赛时讨论了半天，发现题解跟我们讨论的不太相同。    L题：最后还是去做过题人数第三多的L题，拼尽全力战胜L题，怒写240+行代码（屎山），最后无伤AC。靠罚时优势三题银牌。</p><p>闭幕式在CityU举办，正好查到了附近有一家哈根达斯，最后也是吃上了爱情船。除了草莓碎酸死，还是很好吃的。（希望我早日找到女朋友，下次带女友一起去吃。）</p><p>由于香港酒店（就是民宿）太过破旧，准备连夜去深圳住一晚高端酒店。对比之下深圳的酒店就是仙境。晚上来了一顿丰盛的夜宵。爽！！！</p><h2 id="最后">最后</h2><p>    感谢我的两个队友，他们都付出了很多。感谢主办方带来很棒的参赛体验，还有顶级的港理晚宴（据说一桌2500hkd）。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="icpc香港站游记">2024ICPC香港站游记</h1><h2id="icpc香港站结束了香港站应该是最后一场xcpc区域赛了以意想不到的银牌退役了写一篇游记纪念一下香港之旅">icpc香港站结束了，香港站应该是最后一场xcpc区域赛了，以意想不到的银牌退役了,写一篇游记纪念一下香港之旅。</h2><h3 id="day0-12.20">Day0 （12.20）</h3><p>这次香港站学校去了两队，我订了从北京大兴到香港的机票，这是我人生中第一次坐飞机。下午1点的飞机，订了一张8点出发9点到大兴机场的高铁。订的太早了换完港币在机场就没事干了。换港币的时候，本来想一人换200港币，结果只有500面额的港币，最后一人换了一张500的。晚上到了香港已经很晚了。直接买了张八达通，之后坐机场快线直奔酒店了，到了后发现400一晚的酒店破败不堪，非常小，只有两张小床，为后面去深圳做了铺垫。中午在大兴吃了米村拌饭，晚上在香港的冰室吃了海鲜炒面，感觉还挺好吃的。酒店门口有卖鸡蛋仔，20HKD两个，不仅好吃而且性价比高。</p><h3 id="day1-12.21">Day1 （12.21）</h3><p>热身赛。早上去汇丰银行办港卡，前一天晚上在汇丰香港app线上申请成功了，去线下存了100港币到卡里。（队友好像因为名字两个字办卡要审核）办完就去吃了M。领物资环节，主办方送了可爱小熊，去华为拿了个小熊猫和手提袋，JaneStreet领了衣服。热身赛题A比较有意思15个选择，开始以为答案是藏头STARTPARTYTODAY，结果wa了。B是去年杭州站原题，去年我们没做出来，这次我成功A了这个题，我比去年有进步。C是VP过的原题。D也是杭州题，很难不会做。热身赛结束后就到了最隆重的晚宴环节，没想到香港理工准备的晚宴这么顶级。我们桌坐了9个人。一共九个菜。非常好吃，奢华。晚宴的时候JaneStreet又送了扑克牌。（第二天发现好像还送了袋子，有些队伍说在晚宴拿到了，但我们没拿到）吃完晚宴，我们学校两队兵分两路，部分队友去打舞萌了。我去了摩天轮，感觉太值了，18块钱在摩天轮上坐了三圈。晚上回去想吃哈根达斯，找了一家店，因为太晚了都关门了，遗憾休息睡觉。</p><h3 id="day2-12.22">Day2 （12.22）</h3><p>早上吃的麦当劳早餐，60港币，吃完后就开始了激动人心对正式赛。 正式赛（改编自lyt）    这次比赛出乎我的意料，最后拿了银奖，总体真的是十分顺利，愿望实现了！    C题：比赛一开始我先去看题，队友调vscode设置和敲模板，看到有人过题才去读C题。题目慌慌张张没读懂，最后还是lh解释一遍，代码也好实现，写完交上直接过了。    K题：跟着榜做K题，读完有个大概思路，最后2发罚时给过了。赛中开始发了麦当劳，一人一个双吉，之后和志愿者又要了一个汉堡。最后快结束的时候给我们发了一个健身餐（。    F题：以为很简单，最后发现不是很简单，没做出来。    G题&amp;H题：也没做出来，赛时讨论了半天，发现题解跟我们讨论的不太相同。    L题：最后还是去做过题人数第三多的L题，拼尽全力战胜L题，怒写240+行代码（屎山），最后无伤AC。靠罚时优势三题银牌。</p><p>闭幕式在CityU举办，正好查到了附近有一家哈根达斯，最后也是吃上了爱情船。除了草莓碎酸死，还是很好吃的。（希望我早日找到女朋友，下次带女友一起去吃。）</p><p>由于香港酒店（就是民宿）太过破旧，准备连夜去深圳住一晚高端酒店。对比之下深圳的酒店就是仙境。晚上来了一顿丰盛的夜宵。爽！！！</p><h2 id="最后">最后</h2><p>    感谢我的两个队友，他们都付出了很多。感谢主办方带来很棒的参赛体验，还有顶级的港理晚宴（据说一桌2500hkd）。</p>]]></content>
     
     
     
@@ -158,7 +119,7 @@
     <link href="/2024/12/09/diary-20241209/"/>
     <url>/2024/12/09/diary-20241209/</url>
     
-    <content type="html"><![CDATA[<h1 id="today-i-did">Today I Did</h1><p>今天见了她， # Today I Learned 今天才把最后算法进阶指南的0x00基本算法全部刷完，时间过得太快了，20号就要飞香港了，看看最后两周能不能刷4章，计划这周刷完数学和数据结构。</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="today-i-did">Today I Did</h1><p>今天见了她，</p><h1 id="today-i-learned">Today I Learned</h1><p>今天才把最后算法进阶指南的0x00基本算法全部刷完，时间过得太快了，20号就要飞香港了，看看最后两周能不能刷4章，计划这周刷完数学和数据结构。</p>]]></content>
     
     
     
