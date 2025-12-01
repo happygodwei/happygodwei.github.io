@@ -4,6 +4,45 @@
   
   
   <entry>
+    <title>sampling</title>
+    <link href="/2025/11/15/sampling/"/>
+    <url>/2025/11/15/sampling/</url>
+    
+    <content type="html"><![CDATA[<h2 id="importance-sampling">importance sampling</h2>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Gaussian_process</title>
+    <link href="/2025/10/28/Gaussian-process/"/>
+    <url>/2025/10/28/Gaussian-process/</url>
+    
+    <content type="html"><![CDATA[<h1 id="gp">GP</h1><p>高斯过程是定义在连续域（时空）上的无限多个高斯随机变量所组成的随机过程</p><blockquote><p>对于时间轴上的序列 <spanclass="math inline"><em>ξ</em><sub><em>t</em></sub></span>，对于 <spanclass="math inline">∀<em>n</em> ∈ ℕ<sup>+</sup></span>, <spanclass="math inline"><em>t</em><sub><em>i</em></sub> ∈ <em>T</em></span>，有<spanclass="math inline"><em>ξ</em><sub><em>t</em><sub>1</sub> − <em>t</em><sub><em>n</em></sub></sub> ∼ 𝒩(<em>μ</em><sub><em>t</em><sub>1</sub> − <em>t</em><sub><em>n</em></sub></sub>, <em>Σ</em><sub><em>t</em><sub>1</sub> − <em>t</em><sub><em>n</em></sub></sub>)</span>，那么<span class="math inline">{<em>ξ</em><sub><em>t</em></sub>}</span>是一个高斯过程。</p><p>$ t_i $ index $ _i GP(m(t), k(t, s))$ random value</p></blockquote><p>高斯过程存在性定理 &gt; 设 <span class="math inline">𝒯</span>为任意指标集（如 <span class="math inline">ℝ<sup><em>d</em></sup></span>或时间集合），给定： &gt; &gt; - 一个均值函数 <spanclass="math inline"><em>m</em> : 𝒯 → ℝ</span>，<br />&gt; - 一个对称函数 <spanclass="math inline"><em>k</em> : 𝒯 × 𝒯 → ℝ</span>， &gt; &gt;如果对于任意有限个点 <spanclass="math inline"><em>t</em><sub>1</sub>, <em>t</em><sub>2</sub>, …, <em>t</em><sub><em>n</em></sub> ∈ 𝒯</span>，由<span class="math inline"><em>k</em></span> 生成的 <spanclass="math inline"><em>n</em> × <em>n</em></span> 矩阵<br />&gt; <spanclass="math display"> &gt; <strong>K</strong><sub><em>i</em><em>j</em></sub> = <em>k</em>(<em>t</em><sub><em>i</em></sub>, <em>t</em><sub><em>j</em></sub>)&gt;</span>&gt; 是 <strong>半正定</strong>（positive semi-definite, PSD）的，<br />&gt; 则存在一个定义在 <span class="math inline">𝒯</span>上的概率空间上的 <strong>高斯过程</strong> <spanclass="math inline">{<em>X</em><sub><em>t</em></sub>}<sub><em>t</em> ∈ 𝒯</sub></span>，使得：&gt; &gt; - <spanclass="math inline">𝔼[<em>X</em><sub><em>t</em></sub>] = <em>m</em>(<em>t</em>)</span>，<br />&gt; - <spanclass="math inline">Cov(<em>X</em><sub><em>t</em><sub><em>i</em></sub></sub>, <em>X</em><sub><em>t</em><sub><em>j</em></sub></sub>) = <em>k</em>(<em>t</em><sub><em>i</em></sub>, <em>t</em><sub><em>j</em></sub>)</span>。</p><p>定义一个高斯过程，你不需要去具体描述一个无限长的随机向量或一个完整的随机函数。只需要指定：均值函数和协方差函数。</p><h1 id="gpr">GPR</h1><h2 id="weight-space-view-关注参数w">weight-space view (关注参数w)</h2><h3 id="bayesian-lr-kernel-method">Bayesian LR + kernel method</h3><p>$ :x z $ $ x ^p , z^q, q&gt;p $</p><p>prior : <spanclass="math inline"><em>w</em> ∼ <em>N</em>(0, <em>Σ</em><sub><em>p</em></sub>)</span></p><p>woodbury formula求矩阵的逆 求解 $ _p $</p><h2 id="function-space-view-fx">function-space view (f(x))</h2><p>$ {f(x)}_{x _p} GP(m(t), k(t, s))$</p><p><img src="图片1.png" /></p><!-- ![](ans.png) --><p>$ T_u<sup>{rj}(y_r):=T_u</sup>{ri}(y_r)+T_{ij}(Y_i) $</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Daily-Question</title>
+    <link href="/2025/10/13/Daily-Question/"/>
+    <url>/2025/10/13/Daily-Question/</url>
+    
+    <content type="html"><![CDATA[<h2 id="codeforces-1800-2106e-wolf-binary-search">20251012 codeforces1800 2106E Wolf binary search</h2><h2 id="section">20251013</h2>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>diary_20250830</title>
     <link href="/2025/09/02/diary-20250830/"/>
     <url>/2025/09/02/diary-20250830/</url>
@@ -49,19 +88,6 @@
       <tag>xcpc</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>25年上学期竞赛时间</title>
-    <link href="/2025/02/17/contest/"/>
-    <url>/2025/02/17/contest/</url>
-    
-    <content type="html"><![CDATA[<p>蓝桥杯 2025.4.12 9:00 - 11:00 天梯赛 2025.4.19 13:30 - 16:30icpc邀请赛 河北省省赛</p>]]></content>
-    
-    
     
   </entry>
   
